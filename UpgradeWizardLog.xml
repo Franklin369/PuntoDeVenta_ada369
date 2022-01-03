@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
+  <event action="Analyze" type="Success" name="DASHBOARD_PRINCIPAL.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Admin_nivel_dios\DASHBOARD_PRINCIPAL.resx" />
+  <event action="Analyze" type="Success" name="PorCobrarOk.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Apertura_de_credito\PorCobrarOk.resx" />
+  <event action="Analyze" type="Success" name="PorPagar.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Apertura_de_credito\PorPagar.resx" />
+  <event action="Analyze" type="Success" name="Eleccion_Servidor_o_remoto.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\ASISTENTE_DE_INSTALACION_servidor\Eleccion_Servidor_o_remoto.resx" />
+  <event action="Analyze" type="Success" name="Instalacion_del_servidorSQL.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\ASISTENTE_DE_INSTALACION_servidor\Instalacion_del_servidorSQL.resx" />
+  <event action="Analyze" type="Success" name="REGISTRO_DE_EMPRESA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\ASISTENTE_DE_INSTALACION_servidor\REGISTRO_DE_EMPRESA.resx" />
+  <event action="Analyze" type="Success" name="USUARIOS_AUTORIZADOS_AL_SISTEMA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\ASISTENTE_DE_INSTALACION_servidor\USUARIOS_AUTORIZADOS_AL_SISTEMA.resx" />
+  <event action="Analyze" type="Success" name="APERTURA_DE_CAJA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\APERTURA_DE_CAJA.resx" />
+  <event action="Analyze" type="Success" name="Cajas_form.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\Cajas_form.resx" />
+  <event action="Analyze" type="Success" name="CIERRE_DE_CAJA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\CIERRE_DE_CAJA.resx" />
+  <event action="Analyze" type="Success" name="CierreTurno.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\CierreTurno.resx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\FormatoCierreCaja.html" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\FormatoCierreCaja.html" />
+  <event action="Analyze" type="Success" name="FormatoCierreCaja.html" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\FormatoCierreCaja.html" />
+  <event action="Analyze" type="Success" name="Listado_gastos_ingresos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CAJA\Listado_gastos_ingresos.resx" />
+  <event action="Analyze" type="Success" name="ClientesOk.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CLIENTES_PROVEEDORES\ClientesOk.resx" />
+  <event action="Analyze" type="Success" name="Proveedores.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CLIENTES_PROVEEDORES\Proveedores.resx" />
+  <event action="Analyze" type="Success" name="CobrosForm.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Cobros\CobrosForm.resx" />
+  <event action="Analyze" type="Success" name="MediosCobros.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Cobros\MediosCobros.resx" />
+  <event action="Analyze" type="Success" name="Caja_secundaria.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Conexion_remota\Caja_secundaria.resx" />
+  <event action="Analyze" type="Success" name="Conexion_secundaria.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Conexion_remota\Conexion_secundaria.resx" />
+  <event action="Analyze" type="Success" name="PANEL_CONFIGURACIONES.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CONFIGURACION\PANEL_CONFIGURACIONES.resx" />
+  <event action="Analyze" type="Success" name="CrearCopiaBd.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CopiasBd\CrearCopiaBd.resx" />
+  <event action="Analyze" type="Success" name="GeneradorAutomatico.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CopiasBd\GeneradorAutomatico.resx" />
+  <event action="Analyze" type="Success" name="ConfigurarCorreo.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\CorreoBase\ConfigurarCorreo.resx" />
+  <event action="Analyze" type="Success" name="Ticket.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\DISEÑADOR_DE_COMPROBANTES\Ticket.resx" />
+  <event action="Analyze" type="Success" name="EMPRESA_CONFIG.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\EMPRESA_CONFIGURACION\EMPRESA_CONFIG.resx" />
+  <event action="Analyze" type="Success" name="Gastos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Gastos_varios\Gastos.resx" />
+  <event action="Analyze" type="Success" name="Admin_impresoras.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Impresoras\Admin_impresoras.resx" />
+  <event action="Analyze" type="Success" name="IngresosVarios.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\Ingresos_varios\IngresosVarios.resx" />
+  <event action="Analyze" type="Success" name="INVENTARIO_MENU.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\INVENTARIOS_KARDEX\INVENTARIO_MENU.resx" />
+  <event action="Analyze" type="Success" name="MembresiasNuevo.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LICENCIAS_MENBRESIAS\MembresiasNuevo.resx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LOGIN\HTMLPage1.html" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LOGIN\HTMLPage1.html" />
+  <event action="Analyze" type="Success" name="HTMLPage1.html" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LOGIN\HTMLPage1.html" />
+  <event action="Analyze" type="Success" name="LOGIN.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\LOGIN\LOGIN.resx" />
+  <event action="Analyze" type="Success" name="MASCARA.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\MASCARAS\MASCARA.resx" />
+  <event action="Analyze" type="Success" name="Notificaciones_form.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\NOTIFICACIONES\Notificaciones_form.resx" />
+  <event action="Analyze" type="Success" name="CONEXION_MANUAL.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\PANEL_DE_ADMINISTRACION_DEL_SOFTWARE\CONEXION_MANUAL.resx" />
+  <event action="Analyze" type="Success" name="Asistente_de_importacionExcel.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\PRODUCTOS_OK\Asistente_de_importacionExcel.resx" />
+  <event action="Analyze" type="Success" name="Productos_ok.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\PRODUCTOS_OK\Productos_ok.resx" />
+  <event action="Analyze" type="Success" name="Ticket_report.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\Impresion_de_comprobantes\Ticket_report.resx" />
+  <event action="Analyze" type="Success" name="ReportKARDEX_Movimientos_ok.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\Reporte_de_Kardex_diseño\ReportKARDEX_Movimientos_ok.resx" />
+  <event action="Analyze" type="Success" name="FormInventariosTodos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\FormInventariosTodos.resx" />
+  <event action="Analyze" type="Success" name="FormMovimientosBuscar.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\FormMovimientosBuscar.resx" />
+  <event action="Analyze" type="Success" name="FormReporteMovimientosFILTROS.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\FormReporteMovimientosFILTROS.resx" />
+  <event action="Analyze" type="Success" name="Reporte_Movimientos_con_filtros.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\Reporte_Movimientos_con_filtros.resx" />
+  <event action="Analyze" type="Success" name="ReportInventarios_Todos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\ReportInventarios_Todos.resx" />
+  <event action="Analyze" type="Success" name="ReportMovimientosBuscar.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\ReportMovimientosBuscar.resx" />
+  <event action="Analyze" type="Success" name="SERIALIZACION.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\SERIALIZACION_DE_COMPROBANTES\SERIALIZACION.resx" />
+  <event action="Analyze" type="Success" name="usuariosok.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\USUARIOS_Y_PERMISOS\usuariosok.resx" />
+  <event action="Analyze" type="Success" name="CANTIDAD_A_GRANEL.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\VENTAS_MENU_PRINCIPAL\CANTIDAD_A_GRANEL.resx" />
+  <event action="Analyze" type="Success" name="MEDIOS_DE_PAGO.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\VENTAS_MENU_PRINCIPAL\MEDIOS_DE_PAGO.resx" />
+  <event action="Analyze" type="Success" name="Ventas_en_espera.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\VENTAS_MENU_PRINCIPAL\Ventas_en_espera.resx" />
+  <event action="Analyze" type="Success" name="VENTAS_MENU_PRINCIPALOK.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\VENTAS_MENU_PRINCIPAL\VENTAS_MENU_PRINCIPALOK.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
+  <event action="Analyze" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp.sln" />
+  <event action="Backup" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
+  <event action="Upgrade" type="Success" name="ReportKARDEX_Movimientos_ok.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\Reporte_de_Kardex_diseño\ReportKARDEX_Movimientos_ok.resx" />
+  <event action="Upgrade" type="Success" name="Reporte_Movimientos_con_filtros.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\Reporte_Movimientos_con_filtros.resx" />
+  <event action="Upgrade" type="Success" name="ReportInventarios_Todos.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\ReportInventarios_Todos.resx" />
+  <event action="Upgrade" type="Success" name="ReportMovimientosBuscar.resx" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Presentacion\REPORTES\REPORTES_DE_KARDEX_listo\REPORTES_DE_INVENTARIOS_todos\ReportMovimientosBuscar.resx" />
+  <event action="Upgrade" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp\Ada369Csharp.csproj" />
+  <event action="Upgrade" type="Success" name="Ada369Csharp" path="E:\Proyectos en Csharp\Ada369Csharp\Ada369Csharp.sln" />
+</log>
